@@ -1,32 +1,42 @@
 # Olá, eu sou Gabriel Peterli de Aguiar! 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UDF.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UDF.
 
-💻 Desenvolvedor em formação, explorando o mundo da programação e do desenvolvimento de software.
+💻 Desenvolvedor em formação, apaixonado por tecnologia e programação.
 
 ## 🚀 Sobre mim
 
-Atualmente, estou desenvolvendo meus conhecimentos em programação por meio de atividades acadêmicas e projetos práticos.
+Atualmente, estou desenvolvendo meus conhecimentos em programação, desenvolvimento web e banco de dados por meio de atividades acadêmicas e projetos práticos.
 
-Tenho estudado HTML, CSS, JavaScript e C, buscando construir uma base sólida em desenvolvimento web e lógica de programação.
+Tenho estudado HTML, CSS, JavaScript e C, além de conhecimentos em Banco de Dados e SQL.
 
-Meu objetivo é evoluir continuamente como desenvolvedor, aprender novas tecnologias e criar projetos que resolvam problemas reais.
+Meu objetivo é construir uma base sólida em desenvolvimento de software, aprimorar minhas habilidades técnicas e desenvolver soluções que resolvam problemas reais.
 
-## 🛠️ Tecnologias que estou estudando
+## 🛠️ Tecnologias e conhecimentos
 
+### Desenvolvimento Web
 - HTML
 - CSS
 - JavaScript
-- C
-- Git e GitHub
 
-## 📚 Formação
+### Programação
+- C
+
+### Banco de Dados
+- Banco de Dados
+- SQL
+
+### Ferramentas
+- Git
+- GitHub
+
+## 🎓 Formação
 
 - Análise e Desenvolvimento de Sistemas — UDF
 
-## 📌 Projetos
+## 📂 Projetos
 
-Em breve, meus projetos acadêmicos estarão disponíveis aqui!
+Aqui compartilho projetos acadêmicos e pessoais desenvolvidos durante minha jornada na programação.
 
 ## 📫 Contato
 
