@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou Gabriel Peterli de Aguiar! 👋
 
-<!--
-**bielpeterli/Bielpeterli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na UDF.
 
-Here are some ideas to get you started:
+💻 Desenvolvedor em formação, explorando o mundo da programação e do desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Atualmente, estou desenvolvendo meus conhecimentos em programação por meio de atividades acadêmicas e projetos práticos.
+
+Tenho estudado HTML, CSS, JavaScript e C, buscando construir uma base sólida em desenvolvimento web e lógica de programação.
+
+Meu objetivo é evoluir continuamente como desenvolvedor, aprender novas tecnologias e criar projetos que resolvam problemas reais.
+
+## 🛠️ Tecnologias que estou estudando
+
+- HTML
+- CSS
+- JavaScript
+- C
+- Git e GitHub
+
+## 📚 Formação
+
+- Análise e Desenvolvimento de Sistemas — UDF
+
+## 📌 Projetos
+
+Em breve, meus projetos acadêmicos estarão disponíveis aqui!
+
+## 📫 Contato
+
+- GitHub: [@bielpeterli](https://github.com/bielpeterli)
