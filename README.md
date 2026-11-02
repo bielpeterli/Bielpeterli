@@ -8,35 +8,27 @@
 
 Atualmente, estou desenvolvendo meus conhecimentos em programação, desenvolvimento web e banco de dados por meio de atividades acadêmicas e projetos práticos.
 
-Tenho estudado HTML, CSS, JavaScript e C, além de conhecimentos em Banco de Dados e SQL.
+Tenho estudado HTML, CSS, JavaScript e C, além de Banco de Dados e SQL.
 
 Meu objetivo é construir uma base sólida em desenvolvimento de software, aprimorar minhas habilidades técnicas e desenvolver soluções que resolvam problemas reais.
 
 ## 🛠️ Tecnologias e conhecimentos
 
-### Desenvolvimento Web
 - HTML
 - CSS
 - JavaScript
-
-### Programação
 - C
-
-### Banco de Dados
 - Banco de Dados
 - SQL
-
-### Ferramentas
-- Git
-- GitHub
+- Git e GitHub
 
 ## 🎓 Formação
 
 - Análise e Desenvolvimento de Sistemas — UDF
 
-## 📂 Projetos
+## 📂 Projetos em destaque
 
-Aqui compartilho projetos acadêmicos e pessoais desenvolvidos durante minha jornada na programação.
+- [Calculadora em C](https://github.com/bielpeterli/calculadora-linguagem-c)
 
 ## 📫 Contato
 
